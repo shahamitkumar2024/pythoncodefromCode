@@ -91,6 +91,6 @@ The generated `presentation_<company>.md` follows this structure:
 1. Executive Summary
 2. Company Financial Health (scorecard table)
 3. Strategic Priorities
-4. TCS Service Alignment (one slide per initiative)
+4. Service Alignment (one slide per initiative)
 5. Proposed Engagement Model
 6. Next Steps & Call to Action
